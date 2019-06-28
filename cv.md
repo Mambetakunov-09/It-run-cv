@@ -9,19 +9,58 @@
 * css
 * js
 ### Code example:
-```
-<div class="col-md-3">
-                <div class="service">
-                    <i class="fas fa-mobile-alt img-border"></i>
-                    <div class="web">
-                        <h3>Mobile apps</h3>
-                        <p>The first line of Lorem Ipsum,
-                            "Lorem ipsum dolor sit amet..",
-                            comes from a line in section 1.10.32.</p>
-                    </div>
-                </div>
+'''
+ <div class="container">
+            <h2 class="clients-title">SOME OF <strong>OUR CLIENTS</strong></h2>
+            <div id="clients-1" class="owl-carousel owl-theme">
+                <ul class="brent">
+                    <li><img src="img/Layer%2069.png" class="brent-img" alt=""></li>
+                </ul>
+                <ul class="brent">
+                    <li><img src="img/Layer%2065.png" class="brent-img" alt=""></li>
+                </ul>
+                <ul class="brent">
+                    <li><img src="img/m.png" class="brent-img" alt=""></li>
+                </ul>
+                <ul class="brent">
+                    <li><img src="img/Layer%2067.png" class="brent-img" alt=""></li>
+                </ul>
+                <ul class="brent">
+                    <li><img src="img/Layer%2064.png" class="brent-img" alt=""></li>
+                </ul>
+                <ul class="brent">
+                    <li><img src="img/Layer%2069.png" class="brent-img" alt=""></li>
+                </ul>
+                <ul class="brent">
+                    <li><img src="img/Layer%2065.png" class="brent-img" alt=""></li>
+                </ul>
+                <ul class="brent">
+                    <li><img src="img/m.png" class="brent-img" alt=""></li>
+                </ul>
+                <ul class="brent">
+                    <li><img src="img/Layer%2067.png" class="brent-img" alt=""></li>
+                </ul>
+                <ul class="brent">
+                    <li><img src="img/Layer%2064.png" class="brent-img" alt=""></li>
+                </ul>
+                <ul class="brent">
+                    <li><img src="img/Layer%2069.png" class="brent-img" alt=""></li>
+                </ul>
+                <ul class="brent">
+                    <li><img src="img/Layer%2065.png" class="brent-img" alt=""></li>
+                </ul>
+                <ul class="brent">
+                    <li><img src="img/m.png" class="brent-img" alt=""></li>
+                </ul>
+                <ul class="brent">
+                    <li><img src="img/Layer%2067.png" class="brent-img" alt=""></li>
+                </ul>
+                <ul class="brent">
+                    <li><img src="img/Layer%2064.png" class="brent-img" alt=""></li>
+                </ul>
             </div>
-```
+        </div>
+'''
 #### My projects
 Are spirit8, and waxom
 #### Experience
