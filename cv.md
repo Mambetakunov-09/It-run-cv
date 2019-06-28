@@ -9,8 +9,8 @@
 * css
 * js
 ### Code example:
-'''
- <div class="container">
+```javascript
+   <div class="container">
             <h2 class="clients-title">SOME OF <strong>OUR CLIENTS</strong></h2>
             <div id="clients-1" class="owl-carousel owl-theme">
                 <ul class="brent">
@@ -60,7 +60,8 @@
                 </ul>
             </div>
         </div>
-'''
+
+```
 #### My projects
 Are spirit8, and waxom
 #### Experience
