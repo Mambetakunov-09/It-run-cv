@@ -9,58 +9,10 @@
 * css
 * js
 ### Code example:
-```javascript
-   <div class="container">
-            <h2 class="clients-title">SOME OF <strong>OUR CLIENTS</strong></h2>
-            <div id="clients-1" class="owl-carousel owl-theme">
-                <ul class="brent">
-                    <li><img src="img/Layer%2069.png" class="brent-img" alt=""></li>
-                </ul>
-                <ul class="brent">
-                    <li><img src="img/Layer%2065.png" class="brent-img" alt=""></li>
-                </ul>
-                <ul class="brent">
-                    <li><img src="img/m.png" class="brent-img" alt=""></li>
-                </ul>
-                <ul class="brent">
-                    <li><img src="img/Layer%2067.png" class="brent-img" alt=""></li>
-                </ul>
-                <ul class="brent">
-                    <li><img src="img/Layer%2064.png" class="brent-img" alt=""></li>
-                </ul>
-                <ul class="brent">
-                    <li><img src="img/Layer%2069.png" class="brent-img" alt=""></li>
-                </ul>
-                <ul class="brent">
-                    <li><img src="img/Layer%2065.png" class="brent-img" alt=""></li>
-                </ul>
-                <ul class="brent">
-                    <li><img src="img/m.png" class="brent-img" alt=""></li>
-                </ul>
-                <ul class="brent">
-                    <li><img src="img/Layer%2067.png" class="brent-img" alt=""></li>
-                </ul>
-                <ul class="brent">
-                    <li><img src="img/Layer%2064.png" class="brent-img" alt=""></li>
-                </ul>
-                <ul class="brent">
-                    <li><img src="img/Layer%2069.png" class="brent-img" alt=""></li>
-                </ul>
-                <ul class="brent">
-                    <li><img src="img/Layer%2065.png" class="brent-img" alt=""></li>
-                </ul>
-                <ul class="brent">
-                    <li><img src="img/m.png" class="brent-img" alt=""></li>
-                </ul>
-                <ul class="brent">
-                    <li><img src="img/Layer%2067.png" class="brent-img" alt=""></li>
-                </ul>
-                <ul class="brent">
-                    <li><img src="img/Layer%2064.png" class="brent-img" alt=""></li>
-                </ul>
-            </div>
-        </div>
-
+```
+if (isAwesome){
+  return true
+}
 ```
 #### My projects
 Are spirit8, and waxom
