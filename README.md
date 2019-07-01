@@ -1,19 +1,3 @@
-## Mambetakunov Baktiyar
-#### Contacts:
-* 234567890
-* it-run@gmail.com
-#### Goals
-** Life goals are the things you’d like to achieve in order to be satisfied with your future and who you become. Your personal goals could range from better relationships, to starting a business, to traveling the world.
-#### Skills
-* html
-* css
-* js
-#### My projects
-Are spirit8, and waxom
-#### Experience
-i have experience 1 yer in a big company which coled it-run
-#### Education
-It-run
-#### English
-My english is so bed
+## Information Technology Certifications and Jobs
+IT spans such a broad subject there are many careers associated with IT.  Information Technology certifications are designed to educate and objectively validate an IT professional's specialized competency in targeted areas of information technology. IT certifications can be obtained through education, experience or assessment of a specific set of knowledge skills. Today there are hundreds of certifications available through independent organizations and vendors.
 
